@@ -103,4 +103,4 @@ This project draws inspiration from educational resources provided by Egypt Make
 
 ## Contact
 
-For inquiries, questions, or collaboration opportunities, feel free to reach out to <e.roshdy97@gmail.com>. :email:
+For inquiries, questions, or collaboration opportunities, feel free to reach out to <hebadel244@gmail.com>. :email:
